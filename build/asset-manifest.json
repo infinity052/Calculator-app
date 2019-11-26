@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/infinity052/Calculator-app/static/css/main.f11bb6c1.chunk.css",
+    "main.js": "/infinity052/Calculator-app/static/js/main.32fad968.chunk.js",
+    "main.js.map": "/infinity052/Calculator-app/static/js/main.32fad968.chunk.js.map",
+    "runtime-main.js": "/infinity052/Calculator-app/static/js/runtime-main.fbe2afd7.js",
+    "runtime-main.js.map": "/infinity052/Calculator-app/static/js/runtime-main.fbe2afd7.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/infinity052/Calculator-app/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.41415082.chunk.js": "/infinity052/Calculator-app/static/js/2.41415082.chunk.js",
+    "static/js/2.41415082.chunk.js.map": "/infinity052/Calculator-app/static/js/2.41415082.chunk.js.map",
+    "index.html": "/infinity052/Calculator-app/index.html",
+    "precache-manifest.445bcd1d0ef4aa56c8cfd280de4eeb98.js": "/infinity052/Calculator-app/precache-manifest.445bcd1d0ef4aa56c8cfd280de4eeb98.js",
+    "service-worker.js": "/infinity052/Calculator-app/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/infinity052/Calculator-app/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.f11bb6c1.chunk.css.map": "/infinity052/Calculator-app/static/css/main.f11bb6c1.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbe2afd7.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.41415082.chunk.js",
+    "static/css/main.f11bb6c1.chunk.css",
+    "static/js/main.32fad968.chunk.js"
+  ]
+}
